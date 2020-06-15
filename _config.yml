@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Ajay Zalavadia"
 title_separator          : "-"
 name                     : &name "Ajay Zalavadia"
-description              : &description "Description coming soon"
+description              : &description "Description coming soon."
 url                      : https://ajay1685.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ajay1685/ajay1685.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ajay Zalavadia"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Biography coming soon"
+  location         : "Cleveland OH"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Ajay+Zalavadia"
+  googlescholar    : "https://scholar.google.com/citations?user=hd_3x5IAAAAJ&hl=en"
+  email            : "zalavaa@ccf.org"
+  researchgate     :  "https://www.researchgate.net/profile/Ajay_Zalavadia"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Ajay1685"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/zalavadia/"
   orcid            : "https://orcid.org/0000-0002-4468-3865"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "Ajay1685"
   vine             :
   weibo            :
   xing             :
