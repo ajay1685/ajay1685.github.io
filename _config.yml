@@ -81,14 +81,15 @@ analytics:
 # Site Author
 author:
   name             : "Ajay Zalavadia"
-  avatar           : "profile.png"
+  avatar           : "Ajay_Portrait.png"
   bio              : "Biography coming soon"
-  location         : "Cleveland OH"
-  employer         :
+  location         : "Cleveland, OH"
+  employer         : "https://www.lerner.ccf.org/"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Ajay+Zalavadia"
   googlescholar    : "https://scholar.google.com/citations?user=hd_3x5IAAAAJ&hl=en"
   email            : "zalavaa@ccf.org"
   researchgate     :  "https://www.researchgate.net/profile/Ajay_Zalavadia"
+  image.sc         : "https://forum.image.sc/u/ajay_zalavadia/summary"
   uri              :
   bitbucket        :
   codepen          :
