@@ -85,7 +85,7 @@ author:
   bio              : "Biography coming soon"
   location         : "Cleveland, OH"
   employer         : "Lerner Research Institute"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Ajay+Zalavadia"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=Ajay+Zalavadia"
   googlescholar    : "https://scholar.google.com/citations?user=hd_3x5IAAAAJ&hl=en"
   email            : "zalavaa@ccf.org"
   researchgate     :  "https://www.researchgate.net/profile/Ajay_Zalavadia"
