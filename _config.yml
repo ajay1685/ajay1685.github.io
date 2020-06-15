@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : dark # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -82,11 +82,7 @@ analytics:
 author:
   name             : "Ajay Zalavadia"
   avatar           : "Ajay_Portrait.png"
-  bio              : "Imaging Specialist,Morbi sit amet massa rhoncus urna mollis venenatis in at est. Praesent sagittis, neque at molestie aliquet, ligula elit placerat nisl, non laoreet odio mauris vel dolor. Aenean hendrerit mollis mi, in ullamcorper justo. Sed maximus blandit lorem, ac ultrices felis mattis et. Morbi mollis lectus et ipsum ornare facilisis. Sed dignissim malesuada leo sit amet venenatis. Nullam eget mollis mauris. Curabitur sit amet commodo leo, vel interdum dui. Aliquam et lectus eu elit feugiat hendrerit a in augue. Donec non metus metus.
-
-Aliquam scelerisque felis non interdum ullamcorper. Donec blandit tortor auctor, tristique metus in, lacinia nulla. Sed pretium convallis dolor quis vehicula. Vestibulum molestie aliquet posuere. Sed ac venenatis dui. Nulla vitae justo a libero maximus pulvinar ac a ligula. Aenean laoreet ipsum magna, eu porta nunc ultrices non. In rhoncus tristique blandit. Integer euismod dapibus libero ac lobortis. Morbi eget hendrerit nisl. Mauris efficitur tortor sed consequat porttitor. Nulla interdum dui vitae enim vehicula, sit amet sagittis eros egestas. Vestibulum sagittis dictum sem id malesuada. Nullam nibh nunc, fringilla sed aliquam vitae, mollis accumsan justo. Integer ut purus mi. Nulla ac dictum quam, in pretium mauris.
-
-Phasellus ac libero nunc. Donec in nisl tristique, ornare dui interdum, ultricies ante. Donec est sapien, blandit at odio sed, consequat vulputate eros. Praesent quis posuere ligula. Aenean viverra tincidunt pharetra. In lacinia velit eget est aliquam pharetra vestibulum quis purus. Proin tellus purus, consectetur nec arcu vel, sollicitudin eleifend sem. Proin ultrices purus purus, in gravida dolor aliquet in. Curabitur laoreet tempus convallis. Donec semper risus felis, nec auctor urna tincidunt sed. Maecenas eget nunc eget ipsum consequat posuere nec quis ipsum. Phasellus aliquet nec eros vitae pellentesque. Vivamus et est imperdiet, porttitor justo non, ullamcorper velit."
+  bio              : "Imaging Specialist, Imaging Core, Lerner Research Institute."
   location         : "Cleveland, OH"
   employer         : "Lerner Research Institute"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=Ajay+Zalavadia"
