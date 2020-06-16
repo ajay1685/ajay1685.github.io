@@ -8,5 +8,5 @@ date: 2015-01-01
 location: "Cleveland, OH"
 ---
 
-Teaching assistant for graduate level Analytical Chemistry course.
+Teaching assistant for Advanced Analytical Chemistry course.
 
