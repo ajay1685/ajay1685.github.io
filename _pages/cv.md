@@ -46,9 +46,9 @@ Skills
   * Tracking cells for timelapse imaging
 * Machine learning and data anaysis
   * Train models for segmentation of cells and idetify regions for the whole slide images
-  * Analyses Raman spectral imaging data with Matlab
 * Raman Imaging
   * Map crystalline domain for implat material (Poly-L-lactic acid) using raman imaging.
+  * Analyses Raman spectral imaging data with Matlab
 * Chromatography
   * Extraction and analysis of melanin from milk products using LC-MS and GC-MS.
 
