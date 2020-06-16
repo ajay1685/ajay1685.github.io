@@ -35,7 +35,7 @@ Work experience
   
 * 2007: QC Chemist Intern
    * TRIO PHARMA , Ahmedabad, India.
-   * Analyse raw material and maintatin record for each batch.
+   * Analyse raw material and maintain record for each batch.
   
 Skills
 ======
