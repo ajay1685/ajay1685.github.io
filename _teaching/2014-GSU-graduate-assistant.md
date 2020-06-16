@@ -8,4 +8,4 @@ date: 2008-01-01
 location: "Uiversity Park, IL"
 ---
 
-Teaching assistat for physical chemistry and instrumental analysis labs for undergraduate students.
+Teaching assistant for Physical Chemistry and Instrumental Analysis labs for undergraduate students.
