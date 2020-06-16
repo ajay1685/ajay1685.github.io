@@ -50,7 +50,7 @@ Skills
 * Raman Imaging
   * Map crystalline domain for implat material (Poly-L-lactic acid) using raman imaging.
 * Chromatography
-  * Extraction and analysis melanin content of milk products using LC-MS and GC-MS.
+  * Extraction and analysis of melanin from milk products using LC-MS and GC-MS.
 
 Publications
 ======
