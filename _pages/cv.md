@@ -18,12 +18,24 @@ Education
 Work experience
 ======
 * 2018-present: Imaging Specialist
-  * Imaging Core, Lerner Reserach Institute
+  * Imaging Core, Lerner Reserach Institute, Cleveland, OH
   * Duties included: Provide imaging consulation and training for confocal, TIRF, multispectral and scanning electron microscopy. Offer image processing and data analysis support to biomedical researchers. Develop and maintain billing software for the imaging core to manage access, track usage and logg accounting information.  
 
 * 2012-2015: Research Assistant
-  * Cleveland State University
+  * Cleveland State University, Cleveland, OH
   * Duties included: Supervise operations and maintain Scanning Electron Microscope (SEM) Facility. Provide support and teach labs for SEM and EDS analysis to graduate and undergraduate students.
+  
+* 2008-2009: Graduate Assistant
+  * Governors State University, University Park, IL
+  * Duties included: Taught labs for physical chemistry and instrumental analysis to undergraduate students. Maintain Agilent LC/MSD-Trap, BRUKER NMR 300, Varian GC/MS/MS, and Thermo ATR FTIR. Help students develop a method for their sample extraction and analysis using spectroscopy, chromatography and mass spectrometry.
+  
+* 2007: Marketing Representative
+  * Bharat Serums and Vaccines Limited
+  * Successfully Promoted with increase in sales of Thromboflux in Ahmedabad territory.
+  
+* 2007: QC Chemist Intern
+   * TRIO PHARMA , Ahmedabad, India.
+   * Analyse raw material and maintatin record for each batch.
   
 Skills
 ======
