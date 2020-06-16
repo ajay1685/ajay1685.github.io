@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Graduate Assistant"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate lab"
+permalink: /teaching/GSU-graduate-assistat
+venue: "Department of Chemistry, Governors State University"
+date: 2008-01-01
+location: "Uiversity Park, IL"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Teaching assistat for physical chemistry and instrumental analysis labs for undergraduate students.
