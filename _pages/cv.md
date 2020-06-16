@@ -40,12 +40,17 @@ Work experience
 Skills
 ======
 * Microscopy (Confocal, TIRF, multi-photon and multispectral)
-* Image processing (ImageJ, QuPath, Volocity, Digital Micrograph, Image-Pro, HALO)
+* Image processing (ImageJ, QuPath, Volocity, Digital Micrograph, Image-Pro, HALO, Matlab)
   * Whole slide multispectral image analysis
   * 3D volume processing and analysis for confocal z-stacks
   * Tracking cells for timelapse imaging
 * Machine learning and data anaysis
   * Train models for segmentation of cells and idetify regions for the whole slide images
+  * Analyses Raman spectral imaging data with Matlab
+* Raman Imaging
+  * Map crystalline domain for implat material (Poly-L-lactic acid) using raman imaging.
+* Chromatography
+  * Extraction and analysis melanin content of milk products using LC-MS and GC-MS.
 
 Publications
 ======
