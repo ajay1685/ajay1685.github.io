@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a my page, information will be updated soon.
+This is the front page, information will be updated soon.
 
 Sub title
 ======
