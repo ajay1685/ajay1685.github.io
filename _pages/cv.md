@@ -30,10 +30,10 @@ Skills
 * Microscopy (Confocal, TIRF, multi-photon and multispectral)
 * Image processing (ImageJ, QuPath, Volocity, Digital Micrograph, Image-Pro, HALO)
   * Whole slide multispectral image analysis
-  * 3D volume processing for confocal z-stacks
-  * Tracking cells for timelapse imaging 
+  * 3D volume processing and analysis for confocal z-stacks
+  * Tracking cells for timelapse imaging
 * Machine learning and data anaysis
-  * Train models for segemntation of cells and idetify regions for the whole slide images
+  * Train models for segmentation of cells and idetify regions for the whole slide images
 
 Publications
 ======
