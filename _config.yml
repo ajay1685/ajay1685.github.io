@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ajay Zalavadia"
+title                    : "Ajay Zalavadia, Ph.D."
 title_separator          : "-"
-name                     : &name "Ajay Zalavadia"
+name                     : &name "Ajay Zalavadia, Ph.D."
 description              : &description "Description coming soon. . ."
 url                      : https://ajay1685.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
