@@ -1,8 +1,18 @@
 var addressPoints = [
   [
-    "University Park, IL",
-    52.9387428,
-    -1.2002956927457427
+    "Governors State University, University Park, IL",
+    41.446905900000004,
+    -87.71945595440988
+  ],
+  [
+    "Cleveland State University, Cleveland, OH",
+    41.50214445,
+    -81.67516704866894
+  ],
+  [
+    "Orlando, FL",
+    28.5421109,
+    -81.3790304
   ],
   [
     "Cleveland, OH",
@@ -10,9 +20,9 @@ var addressPoints = [
     -81.6934446
   ],
   [
-    "Orlando, FL",
-    28.5421109,
-    -81.3790304
+    "Case Western Reserve University, Cleveland, OH",
+    41.50138695,
+    -81.60070216159022
   ],
   [
     "Philadelphia, PA",
