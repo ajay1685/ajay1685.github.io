@@ -1,5 +1,20 @@
 var addressPoints = [
   [
+    "University Park, IL",
+    52.9387428,
+    -1.2002956927457427
+  ],
+  [
+    "Cleveland, OH",
+    41.5051613,
+    -81.6934446
+  ],
+  [
+    "Orlando, FL",
+    28.5421109,
+    -81.3790304
+  ],
+  [
     "Philadelphia, PA",
     39.9527237,
     -75.1635262
