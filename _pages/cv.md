@@ -47,10 +47,10 @@ Skills
 * Machine learning and data anaysis
   * Train models for segmentation of cells and idetify regions for the whole slide images
 * Raman Imaging
-  * Map crystalline domain for implat material (Poly-L-lactic acid) using raman imaging.
-  * Analyses Raman spectral imaging data with Matlab
+  * Map crystalline domain for implant material (Poly-L-lactic acid) using raman imaging.
+  * Analyse Raman spectral imaging data with Matlab
 * Chromatography
-  * Extraction and analysis of melanin from milk products using LC-MS and GC-MS.
+  * Extraction and analysis of Melanin from milk products using LC-MS and GC-MS.
 
 Publications
 ======
