@@ -19,7 +19,7 @@ Work experience
 ======
 * 2018-present: Imaging Specialist
   * Imaging Core, Lerner Reserach Institute, Cleveland, OH
-  * Duties included: Provide imaging consulation and training for confocal, TIRF, multispectral and scanning electron microscopy. Offer image processing and data analysis support to biomedical researchers. Develop and maintain billing software for the imaging core to manage access, track usage and log accounting information.  
+  * Duties included: Provide imaging consultation and training for confocal, TIRF, multispectral and scanning electron microscopy. Offer image processing and data analysis support to biomedical researchers. Develop and maintain billing software for the Imaging Core to manage access, track usage, log accounting information and integrate with iLab for billing.  
 
 * 2012-2015: Research Assistant
   * Cleveland State University, Cleveland, OH
@@ -44,8 +44,8 @@ Skills
   * Whole slide multiplex analysis
   * 3D volume processing and analysis for confocal z-stacks
   * Tracking cells for timelapse imaging
-* Machine learning and data anaysis
-  * Segmentation of cells and idetify regions for the whole slide images
+* Machine learning and data analysis
+  * Segmentation of cells and identify regions for the whole slide images
 * Raman chemical imaging
   * Map crystalline domain for implant material (Poly-L-lactic acid) using Raman imaging.
   * Analyse Raman spectral imaging data with Matlab
