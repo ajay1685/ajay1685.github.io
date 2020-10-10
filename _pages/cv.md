@@ -13,13 +13,13 @@ Education
 ======
 * B.S. in Pharmacy, Rajiv Gandhi University of Health Sciences, 2007
 * M.S. in Analytical Chemistry, Governors State University, 2009
-* Ph.D in Clinical Bio-Analytical Chemistry, Cleveland State University, 2018
+* Ph.D. in Clinical Bio-Analytical Chemistry, Cleveland State University, 2018
 
 Work experience
 ======
 * 2018-present: Imaging Specialist
   * Imaging Core, Lerner Reserach Institute, Cleveland, OH
-  * Duties included: Provide imaging consulation and training for confocal, TIRF, multispectral and scanning electron microscopy. Offer image processing and data analysis support to biomedical researchers. Develop and maintain billing software for the imaging core to manage access, track usage and logg accounting information.  
+  * Duties included: Provide imaging consulation and training for confocal, TIRF, multispectral and scanning electron microscopy. Offer image processing and data analysis support to biomedical researchers. Develop and maintain billing software for the imaging core to manage access, track usage and log accounting information.  
 
 * 2012-2015: Research Assistant
   * Cleveland State University, Cleveland, OH
@@ -31,26 +31,26 @@ Work experience
   
 * 2007: Marketing Representative
   * Bharat Serums and Vaccines Limited
-  * Successfully Promoted with increase in sales of Thromboflux in Ahmedabad territory.
+  * Successfully promoted with increase in sales of Thromboflux in Ahmedabad territory.
   
 * 2007: QC Chemist Intern
-   * TRIO PHARMA , Ahmedabad, India.
+   * Trio Pharma, Ahmedabad, India.
    * Analyse raw material and maintain record for each batch.
   
 Skills
 ======
 * Microscopy (Confocal, TIRF, multi-photon and multispectral)
 * Image processing (ImageJ, QuPath, Volocity, Digital Micrograph, Image-Pro, HALO, Matlab)
-  * Whole slide multispectral image analysis
+  * Whole slide multiplex analysis
   * 3D volume processing and analysis for confocal z-stacks
   * Tracking cells for timelapse imaging
 * Machine learning and data anaysis
-  * Train models for segmentation of cells and idetify regions for the whole slide images
-* Raman Imaging
-  * Map crystalline domain for implant material (Poly-L-lactic acid) using raman imaging.
+  * Segmentation of cells and idetify regions for the whole slide images
+* Raman chemical imaging
+  * Map crystalline domain for implant material (Poly-L-lactic acid) using Raman imaging.
   * Analyse Raman spectral imaging data with Matlab
 * Chromatography
-  * Extraction and analysis of Melanin from milk products using LC-MS and GC-MS.
+  * Extraction and analysis of Melamine from milk products using LC-MS and GC-MS.
 
 Publications
 ======
