@@ -58,9 +58,10 @@ Skills
   * Analyse Raman spectral imaging data with Matlab
 * Chromatography
   * Extraction and analysis of Melamine from milk products using LC-MS and GC-MS.
-* Programming
+* Programming & computing
   * Strong knowledge of object-oriented programing and application development tools using Microsoft VB.Net, C#, C++.
   * Matlab and Python for data analysis and visualization.
+  * Build workstations for image analysis and deep learning applications.
 
 Publications
 ======
