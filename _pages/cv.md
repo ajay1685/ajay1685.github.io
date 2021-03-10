@@ -25,7 +25,12 @@ Work experience
   * Developed in-house image analysis protocols using open-source as well as commercial software to reveals multi-parameter cellular expressions and interactions while retaining spatial context for whole slide multispectral imaging.
   * Developed Resource Tracker 2.0 to verify user, verify activity number, track instrument usage, and bill user activities in iLab for Imaging Core users.
 
-* Research Assistant (2012-2015)
+* Postdoctoral Fellow (2018-2019)
+  * Department of Inflammation and Immunity, Cleveland Clinic, Cleveland, OH
+  * Investigated role of Myo18a in regulation of humoral immunity by studying spatio-temporal distribution of Myo18a within B cells
+  * Explored morphological features of murine B cells from WT and KO mice using Scanning Electron Microscopy.
+
+* Graduate Assistant (2012-2015)
   * Cleveland State University, Cleveland, OH
   * Duties included: Supervise operations and maintain Scanning Electron Microscope (SEM) Facility. Provide support and teach labs for SEM and EDS analysis to graduate and undergraduate students.
   
