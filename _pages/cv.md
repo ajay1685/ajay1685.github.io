@@ -16,12 +16,17 @@ Education
 * B.S. in Pharmacy, Rajiv Gandhi University of Health Sciences, 2007
 
 
-
 Work experience
 ======
-* Imaging Specialist (2018-present)
+* Research Associate - Bioimage Informatics (2021-present)
   * Imaging Core, Lerner Reserach Institute, Cleveland, OH
-  * Duties included: Provide imaging consultation and training for confocal, TIRF, multispectral and scanning electron microscopy. Offer image processing and data analysis support to biomedical researchers.
+  * Provide consultaion with experimanetal design, data acquisition and image analysis for high-content imaging experiments.
+  * Develop workflows for automation in big data projects.
+  * Establish robust bioimage informatics services to help investigators at LRI and partner institutes.
+
+* Imaging Specialist (2018-2021)
+  * Imaging Core, Lerner Reserach Institute, Cleveland, OH
+  * Provide imaging consultation and training for confocal, TIRF, multispectral and scanning electron microscopy. Offer image processing and data analysis support to biomedical researchers.
   * Developed in-house image analysis protocols using open-source as well as commercial software to reveals multi-parameter cellular expressions and interactions while retaining spatial context for whole slide multispectral imaging.
   * Developed Resource Tracker 2.0 to verify user, verify activity number, track instrument usage, and bill user activities in iLab for Imaging Core users.
 
@@ -48,25 +53,29 @@ Work experience
   
 Skills
 ======
-* Microscopy
-  * Cell and tissue imaging with confocal, multi-photon and TIRF microscopy
+* Light Microscopy
+  * Cell and tissue imaging using confocal, multi-photon and TIRF microscopy
   * Hyperspectral and multispectral imaging for multiplex slides
-  * Electron microscoipy and Enenrgy Dispersive Spectroscopy for material science applications.
-* Image processing (ImageJ, QuPath, Volocity, Digital Micrograph, Image-Pro, HALO, Matlab)
+* Electron Microscopy
+  * Scanning Electron Microscopy (SEM) and Enenrgy Dispersive Spectroscopy (EDS) for material science applications.
+  * Low kV SEM for cell and tissue imaging
+* Image processing (ImageJ, QuPath, CellProfiler, Volocity, Digital Micrograph, Image-Pro, HALO, Matlab)
   * Whole slide multiplex analysis
-  * 3D volume processing and analysis for confocal z-stacks
+  * 3D volume processing & analysis for confocal and MRI data
   * Tracking cells for timelapse imaging
 * Machine learning and data analysis
-  * Segmentation of cells and identify regions for the whole slide images
+  * Deep learning for tissue and cell segmentation for the whole slide image analysis
+  * Single cell data analysis (CLustering, Classification and Dimentionality reduction)
 * Raman chemical imaging
   * Map crystalline domain for implant material (Poly-L-lactic acid) using Raman imaging.
   * Analyse Raman spectral imaging data with Matlab
 * Chromatography
   * Extraction and analysis of Melamine from milk products using LC-MS and GC-MS.
 * Programming & computing
-  * Strong knowledge of object-oriented programing and application development tools using Microsoft VB.Net, C#, C++.
+  * Strong knowledge of object-oriented programing and application development tools (VB.Net, C#, C++).
+  * Version control for software development (Git, Github)
   * Matlab and Python for data analysis and visualization.
-  * Build workstations for image analysis and deep learning applications.
+  * Build workstations for image analysis, deep learning and data science applications.
 
 Publications
 ======
