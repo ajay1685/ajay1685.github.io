@@ -57,22 +57,22 @@ Skills
   * Cell and tissue imaging using confocal, multi-photon and TIRF microscopy
   * Hyperspectral and multispectral imaging for multiplex slides
 * Electron Microscopy
-  * Scanning Electron Microscopy (SEM) and Enenrgy Dispersive Spectroscopy (EDS) for material science applications.
-  * Low kV SEM for cell and tissue imaging
+  * Scanning Electron Microscopy (SEM) and Enenrgy Dispersive Spectroscopy (EDS) for biomaterials.
+  * Low kV SEM for cell, tissue and biofilm imaging
 * Image processing (ImageJ, QuPath, CellProfiler, Volocity, Digital Micrograph, Image-Pro, HALO, Matlab)
   * Whole slide multiplex analysis
   * 3D volume processing & analysis for confocal and MRI data
   * Tracking cells for timelapse imaging
 * Machine learning and data analysis
   * Deep learning for tissue and cell segmentation for the whole slide image analysis
-  * Single cell data analysis (CLustering, Classification and Dimentionality reduction)
+  * Single cell data analysis (Clustering, Classification and Dimentionality reduction)
 * Raman chemical imaging
   * Map crystalline domain for implant material (Poly-L-lactic acid) using Raman imaging.
   * Analyse Raman spectral imaging data with Matlab
 * Chromatography
   * Extraction and analysis of Melamine from milk products using LC-MS and GC-MS.
 * Programming & computing
-  * Strong knowledge of object-oriented programing and application development tools (VB.Net, C#, C++).
+  * Strong knowledge of object-oriented programing and application development tools.
   * Version control for software development (Git, Github)
   * Matlab and Python for data analysis and visualization.
   * Build workstations for image analysis, deep learning and data science applications.
