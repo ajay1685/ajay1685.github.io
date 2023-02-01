@@ -11,14 +11,13 @@ tags:
 Resonance scanner are cool again, thanks to Noise2Void.
 ------
   Resonance scanners have been around for some time but have not been very popular. Resonance scanners were designed to enable high speed acquisition for scanning systems. Images acquired with resonance scanner often requires averaging due to amount of noise present in a the images. The averaging will reudce the speed at which live imaging can be captured. This hindered the wide spread use and adaption of the resonance scanners. We can use Noise2Void implementation as FIJI plugin, to clean up the noisy images acquired at full speed of the resonance scanner. On a Leica SP8 system equipped with resonace scanners we can acquire time lapse movies at real time (27 fps).
-  Here is an example of such acquition:
-  
 
-![Movie](https://user-images.githubusercontent.com/10900214/216131637-ffdb309c-7df5-4824-9eff-f3f5eb549f7f.mp4)
-<video src="https://user-images.githubusercontent.com/10900214/216131637-ffdb309c-7df5-4824-9eff-f3f5eb549f7f.mp4" controls="controls" style="max-width: 730px;">
+Here is an example of such acquition, 
+Time-lapse acquisition of red blood cells travelling through vasculature in a zebra fish, acquired on a Leica DMi8 with SP8 (laser scanning confocal)  using resonance scanner. 
+<video src="https://user-images.githubusercontent.com/10900214/216131637-ffdb309c-7df5-4824-9eff-f3f5eb549f7f.mp4" controls="controls" style="max-width: 650px;">
 </video>
 
-![Movie](https://user-images.githubusercontent.com/10900214/216133938-1bcc9036-999a-46e0-910c-c311b53bfea3.gif)
+Link to low quality GIF : https://user-images.githubusercontent.com/10900214/216133938-1bcc9036-999a-46e0-910c-c311b53bfea3.gif
 
   
 ---
