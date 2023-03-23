@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![splash_image](/images/500x300.png)
+![splash_image](/images/splash_bw.png)
 ---
   Since 2018 I have been serving as Imaging and Bioimage Informatics Specialist at the Imaging Core of Lerner Research Institute, Cleveland Clinic. This unique position offered the prospect of greatly expanding my knowledge of imaging modalities while educating and assisting investigators from numerous research groups. The Imaging Core at LRI provides an environment rich in resources. I have acquired significant experience in bio-imaging techniques such as confocal microscopy, total internal reflection microscopy (TIRF), multi-photon microscopy, and multi-spectral imaging; in the context of biology. With my background in actually building imaging systems, I was able to dive deeply into each of the imaging modalities offered in the Imaging Core.
   
