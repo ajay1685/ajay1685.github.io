@@ -10,7 +10,13 @@ tags:
 
 Video-rate confocal imaging using resonance scanners followed by post processing using the Noise2Void.
 ------
-  Resonance scanners have been around for some time but have not been very popular. Resonance scanners are designed to enable high speed acquisition for scanning systems. Images acquired with resonance scanner often requires frame averaging or frame integrations due to the amount of noise present in a single scan. The frame averaging or the frame integration will reduce the speed at which images can be captured. This hindered the wide spread use and adoption of the resonance scanners for live imaging. We can use Noise2Void to clean up the noisy images acquired at full speed of the resonance scanner. On a Leica SP8 Laser Scanning Confocal Microscope equipped with resonace scanners, we can acquire time-lapse movies at video-rate (27 fps).
+Resonance scanners, although underutilized, possess tremendous potential for high-speed acquisition in scanning systems. However, their limited popularity stems from the challenge of noise in acquired images, often requiring frame averaging or integration. Unfortunately, this compromises the speed of image capture, hindering their widespread adoption for live imaging. Thankfully, there is a solution: Noise2Void.
+
+Noise2Void offers a powerful tool to address the noise issues associated with resonance scanners. By leveraging this advanced technique, we can effectively clean up noisy images acquired at the scanner's full speed. Consider the Leica SP8 Laser Scanning Confocal Microscope equipped with resonance scanners, where time-lapse movies can be acquired at an impressive video-rate of 27 frames per second (fps).
+
+With Noise2Void, the need for frame averaging or integration is eliminated, allowing high-speed imaging. Imagine capturing the intricacies of dynamic cellular processes, monitoring rapid events, and gaining real-time insights into living systems. Noise2Void unlocks the true capabilities of resonance scanners that many of us already have.
+
+In conclusion, resonance scanners have been overlooked in microscopy due to noise challenges. However, by leveraging Noise2Void, we can overcome these limitations and harness the power of resonance scanners. The Leica SP8 Laser Scanning Confocal Microscope, combined with this innovative technique, offers video-rate time-lapse imaging at 27 fps. 
 
 Here is an example of such acquition:
 
