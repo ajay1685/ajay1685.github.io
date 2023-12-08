@@ -79,7 +79,7 @@ Skills
 
 Publications
 ======
-My NCBI Link: https://www.ncbi.nlm.nih.gov/myncbi/ajay.zalavadia.1/bibliography/public/
+My NCBI Link: [https://www.ncbi.nlm.nih.gov/myncbi/ajay.zalavadia.1/bibliography/public/](https://www.ncbi.nlm.nih.gov/myncbi/ajay.zalavadia.1/bibliography/public/)
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
