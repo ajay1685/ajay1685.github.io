@@ -1,5 +1,5 @@
 ---
-title: 'Access detection measurements from a QuPath in python'
+title: 'Access detection measurements from a QuPath project in python'
 date: 2024-04-09
 permalink: /posts/2024/04/09/
 tags:
