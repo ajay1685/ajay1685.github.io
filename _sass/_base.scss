@@ -125,7 +125,8 @@ a {
 /* code */
 
 tt, code, kbd, samp, pre {
-   font-size: 120%;
+   font-family: $monospace;
+   font-size: 150%;
 }
 
 pre {
