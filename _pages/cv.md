@@ -20,13 +20,17 @@ Work experience
 ======
 * Research Associate - Bioimage Informatics (2021-present)
   * Imaging Core, Lerner Reserach Institute, Cleveland, OH
-  * Provide consultaion with experimanetal design, data acquisition and image analysis for high-content imaging experiments.
-  * Develop workflows for automation in big data projects.
-  * Establish robust bioimage informatics services to help investigators at LRI and partner institutes.
+  * Consultation for High-Content Imaging: Provided expert consultation on experimental design, data acquisition, and image analysis for high-content imaging experiments.
+  * Workflow Development for Big Data Automation: Developed automated workflows for big data projects, enhancing efficiency and data processing capabilities.
+  * Bioimage Informatics Services: Established robust bioimage informatics services to support investigators at LRI and partner institutes.
+  * Bioimage Analysis Training: Provided comprehensive training to investigators, graduate students, postdoctoral fellows, and staff on developing cutting-edge in-silico methods for extracting data from images.
+  * Research Collaboration: Collaborated with investigators on research projects, contributing to studies that resulted in co-authorship of articles published in high-impact journals.
+  * Web Application Development: Developed “Resource Tracker Web,” a web application for tracking equipment usage of shared instruments and enabling billing in iLab.
+  * Technical Maintenance and Troubleshooting: Maintained various workstations, software, and microscopes, leveraging expertise in troubleshooting and resolving computer and technological issues.
 
 * Imaging Specialist (2018-2021)
   * Imaging Core, Lerner Reserach Institute, Cleveland, OH
-  * Provide imaging consultation and training for confocal, TIRF, multispectral and scanning electron microscopy. Offer image processing and data analysis support to biomedical researchers.
+  * Provided imaging consultation and training for confocal, TIRF, multispectral and scanning electron microscopy. Offer image processing and data analysis support to biomedical researchers.
   * Developed in-house image analysis protocols using open-source as well as commercial software to reveals multi-parameter cellular expressions and interactions while retaining spatial context for whole slide multispectral imaging.
   * Developed Resource Tracker 2.0 to verify user, verify activity number, track instrument usage, and bill user activities in iLab for Imaging Core users.
 
@@ -99,3 +103,4 @@ Teaching
 Service and leadership
 ======
 * Lead developer for the core billing software and iLab integration.
+* Research Associate/Project Scientist Leadership Council
