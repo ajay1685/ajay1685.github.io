@@ -18,7 +18,8 @@ Education
 
 Work experience
 ======
-* Research Associate - Bioimage Informatics (2021-present)\Imaging Core, Lerner Reserach Institute, Cleveland, OH
+* Research Associate - Bioimage Informatics (2021-present)\
+  Imaging Core, Lerner Reserach Institute, Cleveland, OH
   * Consultation for High-Content Imaging: Provided expert consultation on experimental design, data acquisition, and image analysis for high-content imaging experiments.
   * Workflow Development for Big Data Automation: Developed automated workflows for big data projects, enhancing efficiency and data processing capabilities.
   * Bioimage Informatics Services: Established robust bioimage informatics services to support investigators at LRI and partner institutes.
@@ -27,25 +28,31 @@ Work experience
   * Web Application Development: Developed “Resource Tracker Web,” a web application for tracking equipment usage of shared instruments and enabling billing in iLab.
   * Technical Maintenance and Troubleshooting: Maintained various workstations, software, and microscopes, leveraging expertise in troubleshooting and resolving computer and technological issues.
 
-* Imaging Specialist (2018-2021)\Imaging Core, Lerner Reserach Institute, Cleveland, OH
+* Imaging Specialist (2018-2021)\
+  Imaging Core, Lerner Reserach Institute, Cleveland, OH
   * Provided imaging consultation and training for confocal, TIRF, multispectral and scanning electron microscopy. Offer image processing and data analysis support to biomedical researchers.
   * Developed in-house image analysis protocols using open-source as well as commercial software to reveals multi-parameter cellular expressions and interactions while retaining spatial context for whole slide multispectral imaging.
   * Developed Resource Tracker 2.0 to verify user, verify activity number, track instrument usage, and bill user activities in iLab for Imaging Core users.
 
-* Postdoctoral Fellow (2018-2019)\Department of Inflammation and Immunity, Cleveland Clinic, Cleveland, OH
+* Postdoctoral Fellow (2018-2019)\
+  Department of Inflammation and Immunity, Cleveland Clinic, Cleveland, OH
   * Investigated role of Myo18a in regulation of humoral immunity by studying spatio-temporal distribution of Myo18a within B cells
   * Explored morphological features of murine B cells from WT and KO mice using Scanning Electron Microscopy.
 
-* Graduate Assistant (2012-2015)\Cleveland State University, Cleveland, OH
+* Graduate Assistant (2012-2015)\
+  Cleveland State University, Cleveland, OH
   * Duties included: Supervise operations and maintain Scanning Electron Microscope (SEM) Facility. Provide support and teach labs for SEM and EDS analysis to graduate and undergraduate students.
   
-* Graduate Assistant (2008-2009)\Governors State University, University Park, IL
+* Graduate Assistant (2008-2009)\
+  Governors State University, University Park, IL
   * Duties included: Taught labs for physical chemistry and instrumental analysis to undergraduate students. Maintain Agilent LC/MSD-Trap, BRUKER NMR 300, Varian GC/MS/MS, and Thermo ATR FTIR. Help students develop a method for their sample extraction and analysis using spectroscopy, chromatography and mass spectrometry.
   
-* Marketing Representative (2007)\Bharat Serums and Vaccines Limited
+* Marketing Representative (2007)\
+  Bharat Serums and Vaccines Limited
   * Successfully promoted with increase in sales of Thromboflux in Ahmedabad territory.
   
-* QC Chemist Intern (2007)\Trio Pharma, Ahmedabad, India.
+* QC Chemist Intern (2007)\
+  Trio Pharma, Ahmedabad, India.
    * Analyse raw material and maintain record for each batch.
   
 Skills
