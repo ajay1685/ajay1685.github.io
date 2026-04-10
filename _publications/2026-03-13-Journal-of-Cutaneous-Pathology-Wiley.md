@@ -6,7 +6,7 @@ excerpt: 'Basal cell carcinomas (BCCs) are thought to reside within an immunosup
 date: 2026-03-13
 venue: 'Journal of Cutaneous Pathology'
 paperurl: 'https://onlinelibrary.wiley.com/doi/10.1111/cup.70098'
-citation: 'Harford TJ, Singh KD, Pardhi TR, Desnoyer R, Ravi T, Jara ZP, Zalavadia A, Stenson K, Naga Prasad SV, Karnik SS. Microbial Metabolite 4EPS Inhibits AT1R to Reduce Blood Pressure and Aortic Aneurysm Outcome. Hypertension. 2026 Jan 22. doi: 10.1161/HYPERTENSIONAHA.125.25364. PMID: 41568432.'
+citation: 'Shen AS, Heusinkveld LE, Zalavadia A, Branicky A, Anand S, Piliang M, Maytin EV. Multiplexed Immunofluorescent Characterization of T-Cell and Myeloid Cell Populations Reveals Histologic Subtype Differences Within the Immunosuppressive Landscape of Human Basal Cell Carcinoma. J Cutan Pathol. 2026 Mar 31. doi: 10.1111/cup.70098. Epub ahead of print. PMID: 41916617.'
 ---
 [Link to this paper](https://doi.org/10.1111/cup.70098)
 
