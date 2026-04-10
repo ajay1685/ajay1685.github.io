@@ -18,23 +18,30 @@ Education
 
 Work experience
 ======
-* Research Associate - Bioimage Informatics (2021-present)\
+* Project Staff - Bioimage Analysis Core (2026-present)\
+  Imaging Core, Cleveland Clinic Research, Cleveland, OH
+  * Bioimage Analysis Core: Established and launched the Bioimage Analysis Core at Cleveland Clinic Research to support institution-wide data analysis need.
+  * Leadership: Lead and coordinate a team of bioimage analysis experts, providing centralized analytical support for research projects across multiple disciplines.
+  * Scientific Communication: Independently manage consultations with internal investigators and external research clients, guide projects from experimental design through analysis to translate complex bioimaging and computational concepts into accessible, actionable insight.
+  * Research Collaboration: A successful track record of multidisciplinary research collaborations, contributing intellectually and technically to projects resulting in co‑authorship in several high‑impact journals.
+    
+* Research Associate - Bioimaging and Bioimage Analysis (2021-2026)\
   Imaging Core, Lerner Reserach Institute, Cleveland, OH
-  * Consultation for High-Content Imaging: Provided expert consultation on experimental design, data acquisition, and image analysis for high-content imaging experiments.
-  * Workflow Development for Big Data Automation: Developed automated workflows for big data projects, enhancing efficiency and data processing capabilities.
-  * Bioimage Informatics Services: Established robust bioimage informatics services to support investigators at LRI and partner institutes.
-  * Bioimage Analysis Training: Provided comprehensive training to investigators, graduate students, postdoctoral fellows, and staff on developing cutting-edge in-silico methods for extracting data from images.
-  * Research Collaboration: Collaborated with investigators on research projects, contributing to studies that resulted in co-authorship of articles published in high-impact journals.
-  * Web Application Development: Developed “Resource Tracker Web,” a web application for tracking equipment usage of shared instruments and enabling billing in iLab.
-  * Technical Maintenance and Troubleshooting: Maintained various workstations, software, and microscopes, leveraging expertise in troubleshooting and resolving computer and technological issues.
+  * Bioimage Informatics: Expanded bioimage informatics services to support investigators at the Lerner Research Institute and partner institutions.
+  * Consultation & Experimental Design: Provided expert guidance on experimental design, image acquisition strategies, and advanced image analysis for high‑content imaging experiments.
+  * Data Processing: Designed and implemented automated, scalable analysis workflows for large imaging datasets, significantly improving efficiency and reproducibility.
+  * Training & Education: Delivered comprehensive training to investigators, graduate students, postdoctoral fellows, and staff on cutting‑edge in silico methods for quantitative image analysis.
+  * Research Collaboration: Collaborated closely with investigators on multidisciplinary research projects, contributing intellectually and technically to studies published in high‑impact journals.
+  * Web Application Development: Developed Resource Tracker Web, a web application to track shared instrument usage and enable billing integration with iLab.
+  * Technical Maintenance & Troubleshooting: Maintained and supported high‑performance workstations, specialized software environments, and microscopy systems; resolved complex hardware and software issues.
 
-* Imaging Specialist (2018-2021)\
+* Imaging Specialist - Light and Electron Microscopy (2018-2021)\
   Imaging Core, Lerner Reserach Institute, Cleveland, OH
   * Provided imaging consultation and training for confocal, TIRF, multispectral and scanning electron microscopy. Offer image processing and data analysis support to biomedical researchers.
   * Developed in-house image analysis protocols using open-source as well as commercial software to reveals multi-parameter cellular expressions and interactions while retaining spatial context for whole slide multispectral imaging.
   * Developed Resource Tracker 2.0 to verify user, verify activity number, track instrument usage, and bill user activities in iLab for Imaging Core users.
 
-* Postdoctoral Fellow (2018-2019)\
+* Postdoctoral Fellow - Immunology (2018-2019)\
   Department of Inflammation and Immunity, Cleveland Clinic, Cleveland, OH
   * Investigated role of Myo18a in regulation of humoral immunity by studying spatio-temporal distribution of Myo18a within B cells
   * Explored morphological features of murine B cells from WT and KO mice using Scanning Electron Microscopy.
