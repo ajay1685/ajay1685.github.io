@@ -10,7 +10,6 @@ tags:
 
 When the red is too dark for Picrosirius red staining in histology.  
 ------
-
 The information regarding the Picrosirius red (PSR) staining protocols, the dye identity, and the concentration variations is based on foundational histological literature and biological stain certification standards.
 
 Here are the primary sources:
