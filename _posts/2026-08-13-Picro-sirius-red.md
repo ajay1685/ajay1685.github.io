@@ -1,5 +1,5 @@
 ---
-title: 'Access detection measurements from a QuPath project in python'
+title: 'When the red is too dark for Picrosirius red staining in histology.'
 date: 2026-08-13
 permalink: /posts/2026/08/13/
 tags:
