@@ -26,7 +26,7 @@ Work experience
   * Research Collaboration: A successful track record of multidisciplinary research collaborations, contributing intellectually and technically to projects resulting in co‑authorship in several high‑impact journals.
     
 * Research Associate - Bioimaging and Bioimage Analysis (2021-2026)\
-  Imaging Core, Lerner Reserach Institute, Cleveland, OH
+  Imaging Core, Cleveland Clinic Research, Cleveland, OH
   * Bioimage Informatics: Expanded bioimage informatics services to support investigators at the Lerner Research Institute and partner institutions.
   * Consultation & Experimental Design: Provided expert guidance on experimental design, image acquisition strategies, and advanced image analysis for high‑content imaging experiments.
   * Data Processing: Designed and implemented automated, scalable analysis workflows for large imaging datasets, significantly improving efficiency and reproducibility.
@@ -36,7 +36,7 @@ Work experience
   * Technical Maintenance & Troubleshooting: Maintained and supported high‑performance workstations, specialized software environments, and microscopy systems; resolved complex hardware and software issues.
 
 * Imaging Specialist - Light and Electron Microscopy (2018-2021)\
-  Imaging Core, Lerner Reserach Institute, Cleveland, OH
+  Imaging Core, Lerner Research Institute, Cleveland, OH
   * Provided imaging consultation and training for confocal, TIRF, multispectral and scanning electron microscopy. Offer image processing and data analysis support to biomedical researchers.
   * Developed in-house image analysis protocols using open-source as well as commercial software to reveals multi-parameter cellular expressions and interactions while retaining spatial context for whole slide multispectral imaging.
   * Developed Resource Tracker 2.0 to verify user, verify activity number, track instrument usage, and bill user activities in iLab for Imaging Core users.
@@ -68,29 +68,30 @@ Skills
   * Cell and tissue imaging using confocal, multi-photon and TIRF microscopy
   * Hyperspectral and multispectral imaging for multiplex slides
 * Electron Microscopy
-  * Scanning Electron Microscopy (SEM) and Enenrgy Dispersive Spectroscopy (EDS) for biomaterials.
+  * Scanning Electron Microscopy (SEM) and Energy Dispersive Spectroscopy (EDS) for biomaterials.
   * Low kV SEM for cell, tissue and biofilm imaging
-* Image processing (ImageJ, QuPath, CellProfiler, Volocity, Digital Micrograph, Image-Pro, HALO, Matlab)
+* Image processing (ImageJ, QuPath, CellProfiler, Volocity, Digital Micrograph, Image-Pro, HALO, MATLAB)
   * Whole slide multiplex analysis
   * 3D volume processing & analysis for confocal and MRI data
-  * Tracking cells for timelapse imaging
-* Machine learning and data analysis
+  * Track cells and characterize cell migration for time-lapse microscopy data.
+* Machine learning and data science
   * Deep learning for tissue and cell segmentation for the whole slide image analysis
-  * Single cell data analysis (Clustering, Classification and Dimentionality reduction)
+  * Single cell and spatial analysis (Clustering, Classification and Dimensionality reduction)
 * Raman chemical imaging
   * Map crystalline domain for implant material (Poly-L-lactic acid) using Raman imaging.
-  * Analyse Raman spectral imaging data with Matlab
+  * Chemometric and MATLAB: Analyze Raman spectral imaging data
 * Chromatography
   * Extraction and analysis of Melamine from milk products using LC-MS and GC-MS.
-* Programming & computing
+* Programming & Hardware
   * Strong knowledge of object-oriented programing and application development tools.
   * Version control for software development (Git, Github)
-  * Matlab and Python for data analysis and visualization.
-  * Build workstations for image analysis, deep learning and data science applications.
+  * MATLAB and Python for data analysis and visualization.
+  * Build infrastructure for image analysis, deep learning and data science applications.
+  * Deployed LLM models on local infrastructure for AI and agentic workflow.
 
 Publications
 ======
-My NCBI Link: [https://www.ncbi.nlm.nih.gov/myncbi/ajay.zalavadia.1/bibliography/public/](https://www.ncbi.nlm.nih.gov/myncbi/ajay.zalavadia.1/bibliography/public/)
+NCBI Bibliography Link: [https://www.ncbi.nlm.nih.gov/myncbi/1zcevUesrNp59w/bibliography/public/](https://www.ncbi.nlm.nih.gov/myncbi/1zcevUesrNp59w/bibliography/public/)
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
